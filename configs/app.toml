@@ -119,7 +119,7 @@ rpc-read-timeout = 10
 rpc-write-timeout = 0
 
 # RPCMaxBodyBytes defines the Tendermint maximum response body (in bytes).
-rpc-max-body-bytes = 1000000
+rpc-max-body-bytes = 2000000
 
 # EnableUnsafeCORS defines if CORS should be enabled (unsafe - use it at your own risk).
 enabled-unsafe-cors = false
