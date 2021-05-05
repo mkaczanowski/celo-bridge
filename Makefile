@@ -34,10 +34,6 @@ config-gaia: | clean-config-gaia
 	gaia/build/gaiad gentx --home "data/.gaiad" --chain-id "wormhole" validator 100000000000stake --keyring-backend test
 	gaia/build/gaiad collect-gentxs --home "data/.gaiad"
 
-	cp configs/live_config.json data/live_config.json
-	cp configs/faulty* data/
-	cp configs/simulated* data/
-
 	cp configs/app.toml data/.gaiad/config/app.toml
 	cp configs/config.toml data/.gaiad/config/config.toml
 
