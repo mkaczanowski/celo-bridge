@@ -34,7 +34,7 @@ $ make build-qt
 $ TEST_MODE=... make start-qt
 ```
 
-### Why don't you use docker-compose?
+**Why don't you use docker-compose?**
 While docker is great for setting up reproducable work envirionment, it's not the fastest solution ever. In practice it's much easier to use a single Makefile for development work, without the need to care about isolated volumes or lengthly build times.
 
 ### Live
