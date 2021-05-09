@@ -53,3 +53,6 @@ Same as simulated celo but with faulty data to test failure scenario. To run thi
 - Cosmwasm - Confio, Ethan Frey and Simon Warta
 - Tendermint-rs / ibc-rs - Informal Systems
 - Concept of Wasm-based light client - Zaki Manian, Iqclusion
+
+## Demo
+[![asciicast](https://asciinema.org/a/44s62L7G8SkVtYpiNnfNjWJh4.svg)](https://asciinema.org/a/44s62L7G8SkVtYpiNnfNjWJh4)
