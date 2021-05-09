@@ -55,4 +55,4 @@ Same as simulated celo but with faulty data to test failure scenario. To run thi
 - Concept of Wasm-based light client - Zaki Manian, Iqclusion
 
 ## Demo
-[![asciicast](https://asciinema.org/a/44s62L7G8SkVtYpiNnfNjWJh4.svg)](https://asciinema.org/a/44s62L7G8SkVtYpiNnfNjWJh4)
+[![asciicast](https://asciinema.org/a/413008.svg)](https://asciinema.org/a/413008)
